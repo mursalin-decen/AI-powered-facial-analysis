@@ -30,4 +30,4 @@ a single responsive container, showcasing how an advanced AI diagnostic interfac
 
 1. **Clone the repository:**
 CLONE: https://github.com/mursalin-decen/AI-powered-facial-analysis.git
-LIVE DEMO : https://ai-powered-facial-analysis.vercel.app/
+LIVE DEMO : [https://ai-powered-facial-analysis.vercel.app/](https://ai-powered-facial-analysis.vercel.app/)
